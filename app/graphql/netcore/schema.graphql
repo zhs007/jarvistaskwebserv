@@ -1,0 +1,6 @@
+type NodeInfo {
+    nameid: String!
+    nodeAddr: String!
+    clientNums: Int!
+    connectNums: Int!
+}
